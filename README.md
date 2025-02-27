@@ -3,7 +3,7 @@
 :location: **Boyaca - Colombia**
 :current learning: **ingles y programacion**
 :hobbies: **trotar, cuidar mis plantas y escuchar musica**
-
+:mascotas: **2 perras y 2 gatos**
 
 ### Vias de contacto
 
